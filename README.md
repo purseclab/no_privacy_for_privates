@@ -1,1 +1,2 @@
-# no_privacy_for_privates
+# No Privacy for Privates
+This repository contains artifacts for the paper: "No Privacy for Privates: How Military Communities Experience and Perceive the Privacy Risks of Military-Marketed Apps" accepted at the 26th Privacy Enhancing Technologies Symposium (PETS).
