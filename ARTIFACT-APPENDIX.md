@@ -38,30 +38,28 @@ There are no security or privacy risks for the machine of the person opening/dow
 
 For the user study, we obtained IRB approval from our institution prior to conducting any data collection. The permission to use the aggregated user study response data as an artifact was obtained through the user study consent form which states "We may share the anonymous data and findings with other researchers or in research papers or presentations."
 
-## Environment (Required for all badges)
-
-In the following, describe how to access your artifact and all related and
+## Environment
+***In the following, describe how to access your artifact and all related and
 necessary data and software components. Afterward, describe how to set up
-everything and how to verify that everything is set up correctly.
+everything and how to verify that everything is set up correctly.***
 
-### Accessibility (Required for all badges)
-
-Replace the following by a description of how to access your artifact via
+### Accessibility
+***Replace the following by a description of how to access your artifact via
 persistent sources. Valid hosting options are institutional and third-party
 digital repositories (e.g., GitHub, Gitlab, BitBucket, Zenodo, Figshare, etc.).
 Please do not use personal web pages or cloud storage services like Google
 Drive, Dropbox, etc.
-
 Note that once your artifact evaluation is finalized and a badge decision has
 been made, artifact chairs will collect a stable and persistent reference to
 your artifact to list on the website. For version-controlled repositories (e.g.,
 Git repositories), this will be a specific commit-id or tag.
-
 You _should not_ link to a specific commit here at submission time, as changes
 will likely happen during the evaluation process to address the reviewers'
 feedback, resulting in the link being out-of-date. Instead, you may link to the
 latest commit in your branch (e.g. main) as follows:
-https://github.com/PoPETS-AEC/example-docker-python-pip/tree/main
+https://github.com/PoPETS-AEC/example-docker-python-pip/tree/main***
+
+All artifacts can be accessed at https://github.com/purseclab/no_privacy_for_privates.
 
 ## Notes on Reusability
 
