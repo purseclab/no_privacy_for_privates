@@ -71,10 +71,10 @@ Discuss how your artifacts can be adapted to other settings, e.g., more input
 dimensions, other datasets, and other behavior, through replacing individual
 modules and functionality or running more iterations of a specific module.***
 
-The list of 55 military-related keywords can be reused in future work to cultivate relevant MMMapps datasets, as currently available MMMapps may be removed from app stores and new MMMapps may be released. This list can also be expanded in future work to target military communities of non-US countries.
+1. The list of 55 military-related keywords can be reused in future work to cultivate relevant MMMapps datasets, as currently available MMMapps may be removed from app stores and new MMMapps may be released. This list can also be expanded in future work to target military communities of non-US countries.
 
-The dataset of 242 Military-Marketed Mobile Apps (MMMapps) can be reused and extended in future work investigating security and privacy concerns posed by MMMapps.
+2. The dataset of 242 Military-Marketed Mobile Apps (MMMapps) can be reused and extended in future work investigating security and privacy concerns posed by MMMapps.
 
-The user study questionnaire could be extended and relevant parts reused to author additional studies (e.g., examining how perceptions evolve in response to institutional guidance or policy changes).
+3. The user study questionnaire could be extended and relevant parts reused to author additional studies (e.g., examining how perceptions evolve in response to institutional guidance or policy changes).
 
-The aggregated user study response data could be reused in future work studying military communities (e.g., examining how perceptions evolve in response to institutional guidance or policy changes).
+4. The aggregated user study response data could be reused in future work studying military communities (e.g., examining how perceptions evolve in response to institutional guidance or policy changes).
