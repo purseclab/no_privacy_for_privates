@@ -1,9 +1,4 @@
 # Artifact Appendix
-
-Paper title: **No Privacy for Privates: How Military Communities Experience and Perceive the Privacy Risks of Military-Marketed Mobile Apps**
-
-Requested Badge(s): **Available**
-
 ## Description
 **Paper Title:** No Privacy for Privates: How Military Communities Experience and Perceive the Privacy Risks of Military-Marketed Mobile Apps
 
@@ -16,6 +11,8 @@ Requested Badge(s): **Available**
 2. The dataset of 242 MMMapps we analyzed to help answer our RQs.
 3. The full user study questionnaire presented to participants to help us understand how military-affiliated personnel understand and attempt to mitigate the risks posed by MMMapps.
 4. The aggregated response data from quantitative questions on the user study questionnaire that helped us answer our RQs.
+
+Requested Badge(s): **Available**
 
 ### Security/Privacy Issues and Ethical Concerns
 There are no security or privacy risks for the machine of the person opening/downloading our artifacts.
