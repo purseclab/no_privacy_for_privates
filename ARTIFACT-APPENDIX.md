@@ -29,7 +29,7 @@ All artifacts can be accessed at https://github.com/purseclab/no_privacy_for_pri
 ## Notes on Reusability
 1. The list of 55 military-related keywords can be reused in future work to cultivate relevant MMMapps datasets, as currently available MMMapps may be removed from app stores and new MMMapps may be released. This list can also be expanded in future work to target military communities of non-US countries.
 
-2. The dataset of 242 Military-Marketed Mobile Apps (MMMapps) can be reused and extended in future work investigating security and privacy concerns posed by MMMapps.
+2. The dataset of 242 MMMapps can be reused and extended in future work investigating security and privacy concerns posed by MMMapps.
 
 3. The user study questionnaire could be extended and relevant parts reused to author additional studies (e.g., examining how perceptions evolve in response to institutional guidance or policy changes).
 
