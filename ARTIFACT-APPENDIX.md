@@ -1,11 +1,11 @@
 # Artifact Appendix
 
-Paper title: **No Privacy for Privates: How Military Communities Experience and Perceive the Privacy Risks of Military-Marketed Apps**
+Paper title: **No Privacy for Privates: How Military Communities Experience and Perceive the Privacy Risks of Military-Marketed Mobile Apps**
 
 Requested Badge(s): **Available**
 
 ## Description
-**Paper Title:** No Privacy for Privates: How Military Communities Experience and Perceive the Privacy Risks of Military-Marketed Apps
+**Paper Title:** No Privacy for Privates: How Military Communities Experience and Perceive the Privacy Risks of Military-Marketed Mobile Apps
 
 **Authors:** Joshua Shinkle, Chandrika Mukherjee, Abdullah Imran, Arjun Arunasalam, Donna Artusy, Antonio Bianchi, Z. Berkay Celik, Alexander Master
 
