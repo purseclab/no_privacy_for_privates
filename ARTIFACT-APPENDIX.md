@@ -18,7 +18,7 @@ Requested Badge(s): **Available**
 4. The aggregated response data from quantitative questions on the user study questionnaire that helped us answer our RQs.
 
 ### Security/Privacy Issues and Ethical Concerns
-There are no security or privacy risks for the machine of the person opening/downloading our artificats.
+There are no security or privacy risks for the machine of the person opening/downloading our artifacts.
 
 For the user study, we obtained IRB approval from our institution prior to conducting any data collection. The permission to use the aggregated user study response data as an artifact was obtained through the user study consent form which states "We may share the anonymous data and findings with other researchers or in research papers or presentations."
 
