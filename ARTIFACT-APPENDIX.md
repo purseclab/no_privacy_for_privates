@@ -12,7 +12,7 @@
 1. The list of 55 military-related keywords used to query the Google Play Store for Military-Marketed Mobile Apps (MMMapps) to cultivate our dataset.
 2. The dataset of 242 MMMapps we analyzed to help answer our RQs.
 3. The full user study questionnaire presented to participants to help us understand how military-affiliated personnel understand and attempt to mitigate the risks posed by MMMapps.
-4. The aggregated response data from quantitative questions on the user study questionnaire that helped us answer our RQs.
+4. The per-question aggregated quantitative response data from the user study questionnaire, which helped us answer our RQs.
 
 ### Security/Privacy Issues and Ethical Concerns
 There are no security or privacy risks for the machine of the person opening/downloading our artifacts.
