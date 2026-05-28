@@ -1,12 +1,12 @@
 # Aggregated Response Data For Quatitiative User Study Questions
 
-## Q9
+## Q9: In your everyday life, as a smartphone user, do you primarily use a personal device, a government/military-issued device, or a mix of both?
 70.87% of participants use personal device, 27.18% of participants use mix of both, 1.94% of participants use government/military-issued device.
 
-## Q10
+## Q10: Is the device you use most often an Android or an iPhone?
 56.31% of participants use Android, 43.69% of participants use iPhone.
 
-## Q12
+## Q12: For the following apps, indicate how frequently you or a family member use it in daily life.
 For Hots&Cots, 3.88% said always, 3.88% said often, 11.65% said sometimes, 6.80% said rarely, 73.79% said never.
 
 For Ace PDG+SJT 2026 USAF PFE Prep, 3.88% said always, 2.91% said often, 7.77% said sometimes, 4.85% said rarely, 80.58% said never.
@@ -57,13 +57,13 @@ For Defense & Military News, 7.77% said always, 4.85% said often, 10.68% said so
 
 On average, participants use 7.19 apps (SD = 7.60). The participant(s) who use the most apps use 24 (9 participants tied for this). The participant(s) who use the fewest apps use 0 (10 participants tied for this).
 
-## Q13
+## Q13: Are there any apps not previously listed that you or a family member use because of your military affiliation?
 82.52% said no, 17.48% said yes when asked if they use additional apps.
 
-## Q14
+## Q14: Please list them.
 The additional apps participants listed were: MyArmyPost (2 participants), Signal, GuideOn, MilitaryRetire, PDG Promote, Navy BMR, id.me, Thrift Savings plan, VA Video Connect, NH Pensacola, MilitaryStar, US Army PRT, Vet Tix, WhatsApp, USAA drive safe, champva, PenFed, PMK-EE, Tricare (Insurance), com.thriftsavingsplan.tsp.
 
-## Q16
+## Q16: Rank the following data points and permissions from the one that makes you most uncomfortable when collected (top) to the one that makes you least uncomfortable when collected (bottom).
 Financial Information had a mean rank of 6.91.
 
 Address had a mean rank of 8.48.
@@ -108,7 +108,7 @@ Age had a mean rank of 14.80.
 
 Gender had a mean rank of 15.59.
 
-## Q17
+## Q17: How comfortable are you with a mobile app collecting each of the following data points from you?
 For Email Address, 7.77% said extremely uncomfortable, 11.65% said somewhat uncomfortable, 16.50% said neither comfortable nor uncomfortable, 43.69% said somewhat comfortable, 20.39% said extremely comfortable.
 
 For Name, 8.74% said extremely uncomfortable, 21.36% said somewhat uncomfortable, 16.50% said neither comfortable nor uncomfortable, 33.98% said somewhat comfortable, 19.42% said extremely comfortable.
@@ -153,7 +153,7 @@ For Permission: Access Health and Fitness Data, 32.04% said extremely uncomforta
 
 For Permission: Access SMS / iMessages, 60.19% said extremely uncomfortable, 23.30% said somewhat uncomfortable, 6.80% said neither comfortable nor uncomfortable, 7.77% said somewhat comfortable, 1.94% said extremely comfortable.
 
-## Q18#1
+## Q18#1: Compared with your answers from the previous question, would you feel more, less, or equally uncomfortable if that data was collected by a mobile app marketed toward military-affiliated personnel? Why?
 For Email Address, 10.78% said more uncomfortable, 50.98% said equally uncomfortable, 38.24% said less uncomfortable.
 
 For Name, 8.82% said more uncomfortable, 46.08% said equally uncomfortable, 45.10% said less uncomfortable.
@@ -198,7 +198,7 @@ For Permission: Access Health and Fitness Data, 26.00% said more uncomfortable, 
 
 For Permission: Access SMS / iMessages, 36.00% said more uncomfortable, 44.00% said equally uncomfortable, 20.00% said less uncomfortable.
 
-## Q18#2
+## Q18#2: Compared with your answers from the previous question, would you feel more, less, or equally uncomfortable if that data was shared with a foreign party? Why?
 For Email Address, 69.61% said more uncomfortable, 20.59% said equally uncomfortable, 9.80% said less uncomfortable.
 
 For Name, 66.67% said more uncomfortable, 18.63% said equally uncomfortable, 14.71% said less uncomfortable.
@@ -243,7 +243,7 @@ For Permission: Access Health and Fitness Data, 70.00% said more uncomfortable, 
 
 For Permission: Access SMS / iMessages, 73.47% said more uncomfortable, 17.35% said equally uncomfortable, 9.18% said less uncomfortable.
 
-## Q18#3
+## Q18#3: Compared with your answers from the previous question, would you feel more, less, or equally uncomfortable if that data was shared with an unknown third party? Why?
 For Email Address, 63.37% said more uncomfortable, 25.74% said equally uncomfortable, 10.89% said less uncomfortable.
 
 For Name, 59.80% said more uncomfortable, 27.45% said equally uncomfortable, 12.75% said less uncomfortable.
@@ -288,7 +288,7 @@ For Permission: Access Health and Fitness Data, 65.00% said more uncomfortable, 
 
 For Permission: Access SMS / iMessages, 71.72% said more uncomfortable, 18.18% said equally uncomfortable, 10.10% said less uncomfortable.
 
-## Q19
+## Q19: For the following countries listed in the 2023 DoD Cyber Strategy, how comfortable would you be using an app that included code/SDKs/trackers from that country? Why?
 For People's Republic of China, 76.47% said extremely uncomfortable, 12.75% said somewhat uncomfortable, 5.88% said neither comfortable nor uncomfortable, 1.96% said somewhat comfortable, 2.94% said extremely comfortable.
 
 For Russia, 82.35% said extremely uncomfortable, 7.84% said somewhat uncomfortable, 5.88% said neither comfortable nor uncomfortable, 0.98% said somewhat comfortable, 2.94% said extremely comfortable.
@@ -297,7 +297,7 @@ For North Korea, 83.33% said extremely uncomfortable, 7.84% said somewhat uncomf
 
 For Iran, 83.33% said extremely uncomfortable, 6.86% said somewhat uncomfortable, 3.92% said neither comfortable nor uncomfortable, 1.96% said somewhat comfortable, 3.92% said extremely comfortable.
 
-## Q20
+## Q20: Compared with your answers from the previous question, would you feel more, less, or equally uncomfortable if you or your family member(s) were not affiliated with the military?
 For People's Republic of China, 29.13% said more uncomfortable, 50.49% said equally uncomfortable, 20.39% said less uncomfortable.
 
 For Russia, 27.18% said more uncomfortable, 56.31% said equally uncomfortable, 16.50% said less uncomfortable.
@@ -306,7 +306,7 @@ For North Korea, 27.18% said more uncomfortable, 55.34% said equally uncomfortab
 
 For Iran, 29.13% said more uncomfortable, 59.22% said equally uncomfortable, 11.65% said less uncomfortable.
 
-## Q21
+## Q21: For each app listed, do you believe it contains code from any of the following countries: People’s Republic of China, Russia, North Korea, Iran?
 For Hots&Cots, 7.77% said yes, 54.37% said maybe, 37.86% said no.
 
 For Ace PDG+SJT 2026 USAF PFE Prep, 6.80% said yes, 46.60% said maybe, 46.60% said no.
@@ -355,7 +355,7 @@ For CBT-i Coach, 6.80% said yes, 53.40% said maybe, 39.81% said no.
 
 For Defense & Military News, 12.62% said yes, 38.83% said maybe, 48.54% said no.
 
-## Q24
+## Q24: If the aforementioned data points/inferences were available to a threat actor, which of the following areas do you think could be impacted? Select all that apply.
 91.26% of participants selected Personal Safety as an area of impact.
 
 76.70% of participants selected Operational/Unit Security as an area of impact.
@@ -366,17 +366,17 @@ For Defense & Military News, 12.62% said yes, 38.83% said maybe, 48.54% said no.
 
 2.91% of participants selected None of the Above as an area of impact.
 
-## Q27
+## Q27: Do you receive any security/privacy guidelines from the government/military on how to use your device(s)?
 65.05% said no, 34.95% said yes when asked if they receive security/privacy guidelines.
 
-## Q30
+## Q30: To what extent do you follow these guidelines?
 61.11% said entirely when asked to what extent they follow guidelines.
 
 33.33% said mostly when asked to what extent they follow guidelines.
 
 5.56% said somewhat when asked to what extent they follow guidelines.
 
-## Q31
+## Q31: In light of the aforementioned attack/privacy breach scenarios, to what extent do you think your privacy practices and the guidelines you receive reduce your privacy risks?
 27.78% said entirely when asked if privacy practices and guidelines reduce risks.
 
 47.22% said mostly when asked if privacy practices and guidelines reduce risks.
@@ -385,7 +385,7 @@ For Defense & Military News, 12.62% said yes, 38.83% said maybe, 48.54% said no.
 
 2.78% said a little when asked if privacy practices and guidelines reduce risks.
 
-## Q32
+## Q32: In light of the aforementioned attack/privacy breach scenarios, to what extent do you think your privacy practices reduce your privacy risks?
 2.99% said entirely when asked if privacy practices alone reduce risks.
 
 35.82% said mostly when asked if privacy practices alone reduce risks.
@@ -396,7 +396,7 @@ For Defense & Military News, 12.62% said yes, 38.83% said maybe, 48.54% said no.
 
 8.96% said not at all when asked if privacy practices alone reduce risks.
 
-## Q33
+## Q33: How effective would each of the following be in mitigating the aforementioned attack/privacy breach scenarios?
 For DoD-maintained “approved app list” for military-affiliated personnel to use on personal devices, 31.07% said extremely effective, 34.95% said very effective, 21.36% said moderately effective, 7.77% said slightly effective, 4.85% said not effective at all.
 
 For DoD extension of security/privacy standards for mobile apps marketed to military-affiliated personnel, 30.10% said extremely effective, 35.92% said very effective, 20.39% said moderately effective, 10.68% said slightly effective, 2.91% said not effective at all.
@@ -411,7 +411,7 @@ For Stricter bans on foreign code in apps marketed to military-affiliated person
 
 For In-phone warnings when foreign or unknown third-party code is present, 52.43% said extremely effective, 23.30% said very effective, 13.59% said moderately effective, 7.77% said slightly effective, 2.91% said not effective at all.
 
-## Q34
+## Q34: How likely would you be to adopt or support the following mitigations?
 For DoD-maintained “approved app list” for military-affiliated personnel to use on personal devices, 48.54% said extremely likely, 22.33% said somewhat likely, 13.59% said neither likely nor unlikely, 9.71% said somewhat unlikely, 5.83% said extremely unlikely.
 
 For DoD extension of security/privacy standards for mobile apps marketed to military-affiliated personnel, 45.63% said extremely likely, 31.07% said somewhat likely, 11.65% said neither likely nor unlikely, 8.74% said somewhat unlikely, 2.91% said extremely unlikely.
@@ -426,14 +426,18 @@ For Stricter bans on foreign/unknown SDKs, 57.28% said extremely likely, 21.36% 
 
 For In-phone warnings when foreign/unknown SDKs are present, 66.02% said extremely likely, 16.50% said somewhat likely, 8.74% said neither likely nor unlikely, 5.83% said somewhat unlikely, 2.91% said extremely unlikely.
 
-## Q35
+## Q35: Which of the following describes you? Select all that apply
 48.54% of participants identified as U.S. Military Veteran.
+
 35.92% of participants identified as U.S. Active Duty.
+
 15.53% of participants identified as Family Member of U.S. Active Duty / U.S. Reserve or National Guard Member / U.S. Military Veteran (Please specify which and your relationship).
+
 6.80% of participants identified as U.S. Reserve or National Guard Member.
+
 1.94% of participants identified as U.S. DoD Civilian Employee.
 
-## Q36
+## Q36: Which branch of the U.S. military are you most closely affiliated with?
 49.51% of participants are in the Army.
 
 21.36% of participants are in the Air Force.
@@ -446,14 +450,14 @@ For In-phone warnings when foreign/unknown SDKs are present, 66.02% said extreme
 
 0.97% of participants are in the Coast Guard.
 
-## Q37
+## Q37: What is your gender?
 62.14% of participants identified as male.
 
 34.95% of participants identified as female.
 
 2.91% of participants identified as prefer not to say.
 
-## Q38
+## Q38: What is your race/ethnicity?
 64.08% of participants identified as White.
 
 17.48% of participants identified as Black or African American.
@@ -468,7 +472,7 @@ For In-phone warnings when foreign/unknown SDKs are present, 66.02% said extreme
 
 0.97% of participants identified as Native Hawaiian or Pacific Islander.
 
-## Q39
+## Q39: What is your age range?
 27.18% of participants are in the 25-34 age range.
 
 26.21% of participants are in the 35-44 age range.
